@@ -25,7 +25,7 @@ p{
   margin: 0;
 }
 .sidebar{
-  visbility: hidden;
+  visibility: hidden;
 	left: 0;
 	top: 0;
 	bottom: 0;
@@ -45,14 +45,10 @@ p{
 	margin-bottom: 0.25rem;
 	bottom:0;
 }
-.main-container{
-	margin-left: 60px;
-	bottom: 0;
-	width: calc(100% - 60px);
-}
+.main-container{}
 .main-content{
 	font: 40px Segoe UI Light;
-	margin: 0px 12vw 1vw 12vw;
+	margin: auto;
 }
 .content-header{
 	display: flex;
